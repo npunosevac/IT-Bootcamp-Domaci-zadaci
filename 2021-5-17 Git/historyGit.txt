@@ -1,0 +1,107 @@
+    1  pwd
+    2  ls
+    3  ls - l
+    4  ls-l
+    5  ls -l
+    6  ll
+    7  cd ..
+    8  pwd
+    9  /w
+   10  /c
+   11  /v
+   12  cd Desktop
+   13  cd..
+   14  cd ..
+   15  cd Desktop
+   16  cd ../..
+   17  pwd
+   18  ls -l
+   19  cd Tijana
+   20  cd kiputebra
+   21  cd Desktop
+   22  pwd
+   23  mkdir test123
+   24  cd test123
+   25  touch test.txt
+   26  nano test.txt
+   27  cat text.txt
+   28  cat test.txt
+   29  ls -l
+   30  ls --help
+   31  ls -l
+   32  ls -lt
+   33  ll -t
+   34  rm test.txt
+   35  history
+   36  history > istorija.txt
+   37  cat istorija.txt
+   38  tale istorija.txt
+   39  tail istorija.txt
+   40  tail -n 3 istorija.txt
+   41  head istorija.txt
+   42  head -n 5 istorija.txt
+   43  date
+   44  time
+   45  cal
+   46  calendar
+   47  mkdir novi
+   48  cd novi
+   49  touch fajl.txt
+   50  history > fajl.txt
+   51  grep -e cd fajl.txt
+   52  grep -e rw fajl.txt
+   53  grep -e cd fajl.txt | tail -n 15
+   54  grep -e cd fajl.txt | tail -n 15
+   55  ps
+   56  kill 1837
+   57  kill 1895
+   58  find fajl.txt
+   59  find Desktop
+   60  find Pera
+   61  locate fajl.txt
+   62  locatedvdrental
+   63  locate dvdrental
+   64  find .dvdrental
+   65  sudo apt -get install notepad++
+   66  sudo apt -get instal notepad++
+   67  pwd
+   68  ll
+   69  ls
+   70  cd ls
+   71  ls -l
+   72  where is My Computer
+   73  l-l
+   74  sudo apt -get instal notepad++
+   75  cd novi
+   76  git init
+   77  git config --global user.name "npunosevac"
+   78  git config --global use.email "npunosevac@gmail.com"
+   79  git status
+   80  git add fajl.txt
+   81  gir commit -m "dodavanja fajla fajl.txt" 
+   82  git commit -m "dodavanje fajla fajl.txt"
+   83  git clone https://github.com/npunosevac/ITBootcamp.git
+   84  git push https://github.com/npunosevac/ITBootcamp.git
+   85   git push --set-upstream https://github.com/npunosevac/ITBootcamp.git master
+   86  git push --set-upstream https://github.com/npunosevac/ITBootcamp.git master
+   87  git pull https://github.com/npunosevac/ITBootcamp.git
+   88  gir checkout -b novaGrana
+   89  git checkout -b novaGrana
+   90  touch noviFajl.txt
+   91  git add noviFajl.txt
+   92  git commit -m "nova grana novi fajl"
+   93   git push --set-upstream https://github.com/npunosevac/ITBootcamp.git nova grana
+   94   git push --set-upstream https://github.com/npunosevac/ITBootcamp.git nova grana
+   95  git push --set-upstream https://github.com/npunosevac/ITBootcamp.git novaGrana
+   96  cd Desktop
+   97  git clone https://github.com/npunosevac/bootcampVezbanje.git
+   98  ls
+   99  cd bootcampVezbanje
+  100  git init
+  101  git help
+  102  git commit -m "Prvi commit"
+  103  git add .
+  104  git commit -m "Prvi commit"
+  105  git push https://github.com/npunosevac/bootcampVezbanje.git
+  106  history
+  107  history > historyGit.txt
